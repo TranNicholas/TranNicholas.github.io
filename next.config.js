@@ -6,7 +6,7 @@ module.exports = withPlugins([
 
     {images: {
             loader: 'akamai',
-            path: '',
+            path: '/',
     }}
 
 ]);
