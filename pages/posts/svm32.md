@@ -6,6 +6,8 @@ tag: embedded, microcontroller, STM32, I2C, UART
 author: Nicholas Tran
 ---
 
+# Creating a Sous Vide Machine
+
 # Project Site
 https://svm32.github.io/
 
