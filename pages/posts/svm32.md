@@ -1,13 +1,15 @@
 ---
 title: Creating a Sous Vide Machine
-date: 2021/4/9
-description: Learn more about Next.js pages.
+date: 2022/4/9
+description: Creating a thermal immersion circulator using the STM32 microcontroller.
 tag: embedded, microcontroller, STM32, I2C, UART
 author: Nicholas Tran
 ---
 
-# Layout
+# Project Site
+https://svm32.github.io/
 
+## Layout
 import Image from 'next/image'
 
 <Image
@@ -19,4 +21,6 @@ import Image from 'next/image'
   className="next-image"
 />
 
-# How it works
+## Overview
+
+## How it works
